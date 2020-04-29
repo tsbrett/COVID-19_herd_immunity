@@ -1,0 +1,10 @@
+Age groups,Severe cases,All cases,Percentage of infected individuals hospitalised,95% credible interval
+0–9 years,0,13,0.00, (0.00-0.00)
+10–19 years,1,50,0.0408,(0.0243-0.0832)
+20–29 years,49,437,1.04,(0.622-2.13)
+30–39 years,124,733,3.43,(2.04-7.00)
+40–49 years,154,743,4.25,(2.53-8.68)
+50–59 years,222,790,8.16,(4.86-16.7)
+60–69 years,201,560,11.8,(7.01-24.0)
+70–79 years,133,263,16.6,(9.87-33.8)
+≥80 years,51,76,18.4,(11.0-37.6)

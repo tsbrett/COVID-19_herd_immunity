@@ -1,0 +1,5 @@
+Country,Capacity,Occupancy_percent,URL,,,
+Northern Ireland,3881,83.4,https://www.health-ni.gov.uk/publications/hospital-statistics-inpatient-and-day-case-activity-201819,,,
+Wales,7233,87.3,https://statswales.gov.wales/Catalogue/Health-and-Social-Care/NHS-Hospital-Activity/NHS-Beds/nhsbedssummarydata-by-year,,,
+Scotland,13000,86.8,https://beta.isdscotland.org/find-publications-and-data/health-services/hospital-care/acute-hospital-activity-and-nhs-beds-information-quarterly/25-february-2020/trend-data/,,,
+England,101598,92,https://www.england.nhs.uk/statistics/statistical-work-areas/bed-availability-and-occupancy/bed-data-overnight/,,,
